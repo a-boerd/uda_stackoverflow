@@ -14,20 +14,19 @@ For this project, I was interestested in using Stack Overflow data from 2017 and
 
 1. What motivates people to update their resumes?
 2. How competitive are users of Stack Overflow (towards themselves and others) and how do these attributes correlate?
-3. What are the main methods people use to teach themselves new knowledge?
+3. What are the main methods people use to teach themselves new knowledge? (left this out in the blog-post because it wasn't too spectacular, whoever I was curious about it)
 4. What's people's take on working with other people's code and can we predict this by looking at other information we have?
 
 
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions.  It is exploratory in searching through the data.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available here to showcase work related to the above questions.  It first shows the exploratory part of the analysis as well as the visualization and ends up with building the randomforest model for predicting people's answers to the "working with other people's code" question.  Markdown cells and comments in the code cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict the working with other people's code attribute.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the analysis can be found at the post available [here](https://medium.com/@boerdolf/how-to-find-your-perfect-match-in-all-the-stackoverflow-users-f567fd978213).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
