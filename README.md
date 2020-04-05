@@ -23,6 +23,8 @@ For this project, I was interestested in using Stack Overflow data from 2017 and
 
 There is one notebook available here to showcase work related to the above questions.  It first shows the exploratory part of the analysis as well as the visualization and ends up with building the randomforest model for predicting people's answers to the "working with other people's code" question.  Markdown cells and comments in the code cells were used to assist in walking through the thought process for individual steps.  
 
+This is the data-basis for the analysis that was conducted (2017 stackoverflow survey): (https://drive.google.com/uc?export=download&id=0B6ZlG_Eygdj-c1kzcmUxN05VUXM)
+
 
 ## Results<a name="results"></a>
 
